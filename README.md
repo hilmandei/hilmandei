@@ -5,5 +5,5 @@ My name is Hilman, Im a Data Scientist with 1 and half year, its quite new for m
 - 🌱 I’m currently learning Data Scientist
 - 👯 I’m looking to collaborate on small project to improve my knowledge in Data Science field
 - 💬 Interested in talking about Data Science
-- 📫 How to reach me: hilman.revisionery@gmail.com
+- 📫 Reach me: hilman.revisionery@gmail.com
 
